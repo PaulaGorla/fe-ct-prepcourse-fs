@@ -182,9 +182,9 @@ function tieneTresDigitos(num) {
    // Caso contrario, retornar False.
    // Tu código:
    if (num > 99 && num < 1000)
-      return true
-   else  
-      return false
+   return true
+else  
+   return false
 }
 
 function doWhile(num) {
